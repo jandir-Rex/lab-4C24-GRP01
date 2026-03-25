@@ -1,1 +1,1 @@
-"public class StudentCtrl {}" 
+"public class StudentCtrl { public void list() {} }" 
